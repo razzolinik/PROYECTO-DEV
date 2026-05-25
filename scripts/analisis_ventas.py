@@ -1,3 +1,4 @@
+import pandas as pd
 import matplotlib.pyplot as plt
 #Cargo El Dataset
 df = pd.read_csv("datos/ventas.csv")
